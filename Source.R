@@ -1,0 +1,11 @@
+## source file
+source("~/Desktop/Papers/Single_cell/New_TMM/DgeList.R", echo=TRUE)
+source("~/Desktop/Papers/Single_cell/New_TMM/DNormFactor.R", echo=TRUE)
+source("~/Desktop/Papers/Single_cell/New_TMM/DWNormFactor.R", echo=TRUE)
+source("~/Desktop/Papers/Single_cell/New_TMM/lOptAlpah.R", echo=TRUE)
+source("~/Desktop/Papers/Single_cell/New_TMM/SOptAlpah.R", echo=TRUE)
+source("~/Desktop/Papers/Single_cell/New_TMM/noceros.R", echo=TRUE)
+source("~/Desktop/Papers/Single_cell/New_TMM/sinceros.R", echo=TRUE)
+source("~/Desktop/Papers/Single_cell/New_TMM/Full_Q.R", echo=TRUE)
+source("~/Desktop/Papers/Single_cell/New_TMM/Upper _Q.R", echo=TRUE)
+source("~/Desktop/Papers/Single_cell/New_TMM/Median_N.R", echo=TRUE)
