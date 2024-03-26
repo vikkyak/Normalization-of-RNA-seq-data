@@ -1,3 +1,3 @@
 
 # Normalization of RNA-Seq Data with Adaptive Trimmed Mean
-# EdgeR package help have been taken
+# edgeR package help have been taken for the implementation
