@@ -26,12 +26,4 @@ Vikas Singh
 📄 License
 
 
----
 
-Let me know if you'd like to:
-
-- Add a `figure/ROC_Pickrell.png` to embed in the README
-- Turn this into an R package or a vignette
-- Generate a PDF or HTML version for publication
-
-I can help you structure it all!
