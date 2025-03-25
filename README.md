@@ -11,3 +11,27 @@ Download: https://github.com/vikkyak/Normalization-of-RNA-seq-data/archive/refs/
 
 ### help
  edgeR package help have been taken for the implementation
+
+
+
+📚 Requirements
+recount, edgeR, DESeq2, ROC, pROC, PoissonSeq, TCC, compositions, psych
+install.packages(c("pROC", "psych"))
+BiocManager::install(c("recount", "edgeR", "DESeq2", "PoissonSeq", "TCC", "compositions"))
+
+👨‍💻 Author
+Vikas Singh
+📧 vikkysingh07@gmail.com
+
+📄 License
+
+
+---
+
+Let me know if you'd like to:
+
+- Add a `figure/ROC_Pickrell.png` to embed in the README
+- Turn this into an R package or a vignette
+- Generate a PDF or HTML version for publication
+
+I can help you structure it all!
