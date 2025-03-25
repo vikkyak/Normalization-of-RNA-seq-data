@@ -6,11 +6,17 @@ This project compares various normalization methods for RNA-seq differential exp
 
 Vikas Singh, Nikhil Kirtipal, Byeongsop Song, Sunjae Lee, Normalization of RNA-Seq data using adaptive trimmed mean with multi-reference, Briefings in Bioinformatics, Volume 25, Issue 3, May 2024, bbae241, https://doi.org/10.1093/bib/bbae241
 
-## Installation
-Download: https://github.com/vikkyak/Normalization-of-RNA-seq-data/archive/refs/heads/main.zip
+## 🛠️ Installation
 
-### help
- edgeR package help have been taken for the implementation
+You can download the source code directly from GitHub:
+
+🔽 **[Download ZIP](https://github.com/vikkyak/Normalization-of-RNA-seq-data/archive/refs/heads/main.zip)**
+
+Or clone the repository using Git:
+
+```bash
+git clone https://github.com/vikkyak/Normalization-of-RNA-seq-data.git
+
 
 
 
