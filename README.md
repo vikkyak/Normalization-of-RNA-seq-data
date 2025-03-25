@@ -23,7 +23,6 @@ BiocManager::install(c("recount", "edgeR", "DESeq2", "PoissonSeq", "TCC", "compo
 Vikas Singh
 📧 vikkysingh07@gmail.com
 
-📄 License
 
 
 
