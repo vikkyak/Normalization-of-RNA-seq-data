@@ -1,7 +1,8 @@
 
-# Normalization of RNA-Seq data using adaptive trimmed mean with multi-reference
+# 🧬 Normalization of RNA-Seq data using adaptive trimmed mean with multi-reference
 
-Vikas Singh 
+This project compares various normalization methods for RNA-seq differential expression (DE) analysis using the **Pickrell dataset** (`SRP001540`) from the `recount` project. Multiple normalization strategies are applied, and performance is evaluated using ROC curves.
+
 
 Vikas Singh, Nikhil Kirtipal, Byeongsop Song, Sunjae Lee, Normalization of RNA-Seq data using adaptive trimmed mean with multi-reference, Briefings in Bioinformatics, Volume 25, Issue 3, May 2024, bbae241, https://doi.org/10.1093/bib/bbae241
 
